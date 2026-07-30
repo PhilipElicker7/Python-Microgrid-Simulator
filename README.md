@@ -1,4 +1,4 @@
-# Microgrid Simulator
+# Python Microgrid Simulator
 
 ## Overview
 This repository contains a Python-based utility grid simulator that models power flow, voltage drop, and automated fault-protection logic for a 3-node distribution microgrid. 
